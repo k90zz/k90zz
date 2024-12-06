@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**k90zz/k90zz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm $$USERNAME$$, a passionate developer interested in [your interests here].
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Programming Languages: [list your programming languages]
+- Frameworks: [list your frameworks]
+- Tools: [list your tools]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=$$USERNAME$$&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+- Email: [your email]
+- LinkedIn: [your LinkedIn]
+
+## 🌟 Projects
+- [Project 1](link to project 1)
+- [Project 2](link to project 2)
+
+## ✨ Fun Facts
+- [Add some fun facts about yourself]
