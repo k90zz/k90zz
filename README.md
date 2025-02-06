@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm $$k90zz$$, a passionate developer interested in [your interests here].
+I'm $$k90zz$$, a passionate developer interested in developing atomeocean.com.
 
 ## 🛠️ Skills
 - Programming Languages: java
@@ -11,12 +11,10 @@ I'm $$k90zz$$, a passionate developer interested in [your interests here].
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=k90zz&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
-- Email: [your email]
-- LinkedIn: [your LinkedIn]
+- Email: jackz@atomeocean.com
 
 ## 🌟 Projects
-- [Project 1](link to project 1)
-- [Project 2](link to project 2)
+- [job compass](https://jobcompass.atomeocean.com))
 
 ## ✨ Fun Facts
-- [Add some fun facts about yourself]
+- nyc
